@@ -1,14 +1,54 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rinat
-=============================================================================================================================
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rinat!;" />
+</h1>
 
-* 🧠  I'm learning Golang
+<h3 align="center">Backend developer</h3>
 
-### Badges
+<div align="center">
 
-<b>My GitHub Stats</b>
+🌱 I’m learning **Golang**
 
-<a href="http://www.github.com/chazari-x"><img src="https://github-readme-stats.vercel.app/api?username=chazari-x&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="chazari-x's GitHub stats" /></a>
+</div>
 
-<a href="http://www.github.com/chazari-x"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chazari-x&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[//]: # (<div align="center"> )
 
-<a href="https://github.com/chazari-x" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chazari-x&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[//]: # (  <a href="#">)
+
+[//]: # (    <img src="https://img.shields.io/badge/HH.ru-333333?style=for-the-badge&logo=hh.ru&logoColor=red" />)
+
+[//]: # (  </a>)
+
+[//]: # (</div>)
+
+<hr/>
+
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=go,docker,linux,postgres,github,redis,rabbitmq,selenium,prometheus,grafana" />
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/chazari-x/chazari-x/output/github-contribution-grid-snake.svg" />
+
+<br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=chazari-x&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=chazari-x&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=chazari-x&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/>
+
+<hr/>
