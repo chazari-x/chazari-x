@@ -10,6 +10,8 @@
 
 </div>
 
+<iframe src="https://chazari.ru/" name="chazari" scrolling="auto" width="100%" height="100%" style="border: solid #000000;"></iframe>
+
 [//]: # (<div align="center"> )
 
 [//]: # (  <a href="#">)
