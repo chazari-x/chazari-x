@@ -6,7 +6,7 @@
 
 <div align="center">
 
-🌱 I’m learning **Golang**
+🌱 I’m learning **Golang**, **JavaScript**, **Python**, **Lua**
 
 </div>
 
