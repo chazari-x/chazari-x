@@ -6,7 +6,7 @@
 
 <div align="center">
 
-🌱 I’m learning **Golang**, **JavaScript**, **Python**, **Lua**
+🌱 I’m learning **Golang**, **JavaScript**, **TypeScript**, **Python**, **Lua**
 
 </div>
 
@@ -24,7 +24,7 @@
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=go,javascript,python,lua,docker,linux,postgres,github,redis,rabbitmq,selenium,prometheus,grafana" />
+    <img src="https://skillicons.dev/icons?i=go,javascript,typescript,python,django,lua,docker,linux,postgres,github,redis,rabbitmq,selenium,prometheus,grafana" />
 </div>
 
 <br/>
